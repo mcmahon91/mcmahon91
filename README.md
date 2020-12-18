@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<p>I recently graduated with an apprenticeship in software development whilst working as a full time developer.</p>
+
+<figure>
+    <figcaption>Qualifications and Achievements</figcaption>
+    <ul>
+        <li>Level 4 Software development - BCS certified</li>
+        <li>HTML 5 & CSS 3 - Microsoft Certified</li>
+        <li>Javascript - FreeCodeCamp certified</li>
+        <li>Responsive Web Design -  FreeCodeCamp certified</li>
+        <li>BSc Economics - Manchester Metropolitan University</li>
+    </ul>
+</figure>
+
 <!--
 **mcmahon91/mcmahon91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
