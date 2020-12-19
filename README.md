@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/mcmahon91/kidsmix/blob/master/Thomas%20McMahon.png?raw=true" alt="Thomas McMahon.png">
 
 <p>I recently graduated with an apprenticeship in software development whilst working as a full time developer.</p>
 
